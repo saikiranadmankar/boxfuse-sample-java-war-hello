@@ -1,9 +1,9 @@
 <html>
 <head>
-    <title>MY PROJECT</title>
+    <title>MY MAVEN PROJECT</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations!</h1>
+<h1>Hii All! Good Night</h1>
 <img src="boxfuse.png">
 
 <h2>You have successfully launched your Instance!</h2>
